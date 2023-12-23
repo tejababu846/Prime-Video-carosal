@@ -1,0 +1,28 @@
+.thumbnail {
+  width: 200px;
+  height: 150px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.popupDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.moviePlayer {
+  margin-top: 12px;
+  margin-left: 48px;
+  margin-bottom: 48px;
+  margin-right: 48px;
+}
+.CloseButton {
+  background-color: transparent;
+  border-width: 0;
+  outline: none;
+  margin-right: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  align-self: flex-end;
+}

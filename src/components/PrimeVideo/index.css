@@ -1,0 +1,15 @@
+.mainImg {
+  width: 100%;
+}
+.mainBg {
+  min-height: 100vh;
+  background-color: #000000;
+  color: #ffffff;
+  padding-bottom: 30px;
+}
+.itemsDiv {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 30px;
+  max-width: 1100px;
+}
